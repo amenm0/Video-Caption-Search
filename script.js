@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyDak7hxw2r7gZw6hF-F4PDMMhCMkqilHOc'; // Replace with your YouTube API key
+const apiKey = 'AIzaSyDak7hxw2r7gZw6hF-F4PDMMhCMkqilHOc'; // YouTube API key
 
 function searchCaption() {
     const youtubeLink = document.getElementById('youtube-link').value;
